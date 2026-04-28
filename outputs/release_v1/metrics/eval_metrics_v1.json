@@ -1,0 +1,18 @@
+{
+  "num_samples": 200,
+  "mse_all_dims": 0.0557844415307045,
+  "mae_per_dim": [
+    0.2113003134727478,
+    0.22187753021717072,
+    0.007809281814843416
+  ],
+  "mean_l2_xy": 0.34028807282447815,
+  "success_rate_0.3": 0.5550000071525574,
+  "success_rate_0.5": 0.8050000071525574,
+  "x_direction_accuracy": 0.9521276354789734,
+  "x_direction_count": 188,
+  "y_direction_accuracy": 0.938144326210022,
+  "y_direction_count": 194,
+  "both_xy_direction_accuracy": 0.8846153616905212,
+  "both_xy_direction_count": 182
+}

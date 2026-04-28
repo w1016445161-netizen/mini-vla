@@ -1,0 +1,5802 @@
+[
+  {
+    "id": 930,
+    "image": "data/raw/images/sample_0930.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.4,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      30,
+      10
+    ],
+    "blocks": {
+      "red": [
+        19,
+        39
+      ],
+      "green": [
+        53,
+        36
+      ],
+      "blue": [
+        38,
+        50
+      ]
+    }
+  },
+  {
+    "id": 736,
+    "image": "data/raw/images/sample_0736.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.7,
+      0.9,
+      0.0
+    ],
+    "agent_pos": [
+      11,
+      27
+    ],
+    "blocks": {
+      "red": [
+        45,
+        47
+      ],
+      "green": [
+        53,
+        16
+      ],
+      "blue": [
+        25,
+        45
+      ]
+    }
+  },
+  {
+    "id": 739,
+    "image": "data/raw/images/sample_0739.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.7,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      20,
+      10
+    ],
+    "blocks": {
+      "red": [
+        13,
+        40
+      ],
+      "green": [
+        27,
+        48
+      ],
+      "blue": [
+        34,
+        32
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "image": "data/raw/images/sample_0003.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      0.85,
+      0.0
+    ],
+    "agent_pos": [
+      10,
+      20
+    ],
+    "blocks": {
+      "red": [
+        54,
+        37
+      ],
+      "green": [
+        31,
+        27
+      ],
+      "blue": [
+        15,
+        34
+      ]
+    }
+  },
+  {
+    "id": 908,
+    "image": "data/raw/images/sample_0908.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.85,
+      -0.75,
+      0.0
+    ],
+    "agent_pos": [
+      51,
+      35
+    ],
+    "blocks": {
+      "red": [
+        34,
+        20
+      ],
+      "green": [
+        13,
+        33
+      ],
+      "blue": [
+        16,
+        16
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "image": "data/raw/images/sample_0161.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.15,
+      0.0
+    ],
+    "agent_pos": [
+      13,
+      28
+    ],
+    "blocks": {
+      "red": [
+        34,
+        49
+      ],
+      "green": [
+        36,
+        25
+      ],
+      "blue": [
+        51,
+        53
+      ]
+    }
+  },
+  {
+    "id": 445,
+    "image": "data/raw/images/sample_0445.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      53,
+      27
+    ],
+    "blocks": {
+      "red": [
+        28,
+        51
+      ],
+      "green": [
+        36,
+        22
+      ],
+      "blue": [
+        14,
+        21
+      ]
+    }
+  },
+  {
+    "id": 931,
+    "image": "data/raw/images/sample_0931.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      16,
+      12
+    ],
+    "blocks": {
+      "red": [
+        36,
+        54
+      ],
+      "green": [
+        44,
+        20
+      ],
+      "blue": [
+        48,
+        34
+      ]
+    }
+  },
+  {
+    "id": 998,
+    "image": "data/raw/images/sample_0998.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      47,
+      53
+    ],
+    "blocks": {
+      "red": [
+        42,
+        13
+      ],
+      "green": [
+        54,
+        23
+      ],
+      "blue": [
+        18,
+        24
+      ]
+    }
+  },
+  {
+    "id": 955,
+    "image": "data/raw/images/sample_0955.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      24,
+      45
+    ],
+    "blocks": {
+      "red": [
+        14,
+        34
+      ],
+      "green": [
+        23,
+        16
+      ],
+      "blue": [
+        45,
+        27
+      ]
+    }
+  },
+  {
+    "id": 656,
+    "image": "data/raw/images/sample_0656.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.6,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      31,
+      47
+    ],
+    "blocks": {
+      "red": [
+        34,
+        25
+      ],
+      "green": [
+        19,
+        16
+      ],
+      "blue": [
+        47,
+        13
+      ]
+    }
+  },
+  {
+    "id": 787,
+    "image": "data/raw/images/sample_0787.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.9,
+      0.95,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      35
+    ],
+    "blocks": {
+      "red": [
+        48,
+        25
+      ],
+      "green": [
+        46,
+        41
+      ],
+      "blue": [
+        32,
+        54
+      ]
+    }
+  },
+  {
+    "id": 899,
+    "image": "data/raw/images/sample_0899.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.85,
+      -0.5,
+      0.0
+    ],
+    "agent_pos": [
+      41,
+      44
+    ],
+    "blocks": {
+      "red": [
+        24,
+        34
+      ],
+      "green": [
+        15,
+        47
+      ],
+      "blue": [
+        33,
+        10
+      ]
+    }
+  },
+  {
+    "id": 768,
+    "image": "data/raw/images/sample_0768.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      11,
+      22
+    ],
+    "blocks": {
+      "red": [
+        26,
+        21
+      ],
+      "green": [
+        31,
+        45
+      ],
+      "blue": [
+        53,
+        18
+      ]
+    }
+  },
+  {
+    "id": 936,
+    "image": "data/raw/images/sample_0936.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      0.25,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      36
+    ],
+    "blocks": {
+      "red": [
+        16,
+        41
+      ],
+      "green": [
+        47,
+        12
+      ],
+      "blue": [
+        36,
+        23
+      ]
+    }
+  },
+  {
+    "id": 698,
+    "image": "data/raw/images/sample_0698.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.7,
+      -0.95,
+      0.0
+    ],
+    "agent_pos": [
+      28,
+      46
+    ],
+    "blocks": {
+      "red": [
+        35,
+        13
+      ],
+      "green": [
+        48,
+        45
+      ],
+      "blue": [
+        14,
+        27
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "image": "data/raw/images/sample_0117.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      27,
+      23
+    ],
+    "blocks": {
+      "red": [
+        42,
+        17
+      ],
+      "green": [
+        32,
+        37
+      ],
+      "blue": [
+        53,
+        53
+      ]
+    }
+  },
+  {
+    "id": 738,
+    "image": "data/raw/images/sample_0738.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      -0.8,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      44
+    ],
+    "blocks": {
+      "red": [
+        38,
+        12
+      ],
+      "green": [
+        10,
+        39
+      ],
+      "blue": [
+        49,
+        28
+      ]
+    }
+  },
+  {
+    "id": 830,
+    "image": "data/raw/images/sample_0830.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      15
+    ],
+    "blocks": {
+      "red": [
+        32,
+        37
+      ],
+      "green": [
+        40,
+        52
+      ],
+      "blue": [
+        19,
+        43
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "image": "data/raw/images/sample_0011.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.55,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      34
+    ],
+    "blocks": {
+      "red": [
+        48,
+        39
+      ],
+      "green": [
+        45,
+        10
+      ],
+      "blue": [
+        27,
+        51
+      ]
+    }
+  },
+  {
+    "id": 566,
+    "image": "data/raw/images/sample_0566.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      51
+    ],
+    "blocks": {
+      "red": [
+        15,
+        33
+      ],
+      "green": [
+        44,
+        31
+      ],
+      "blue": [
+        28,
+        51
+      ]
+    }
+  },
+  {
+    "id": 257,
+    "image": "data/raw/images/sample_0257.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.9,
+      -0.2,
+      0.0
+    ],
+    "agent_pos": [
+      32,
+      23
+    ],
+    "blocks": {
+      "red": [
+        50,
+        19
+      ],
+      "green": [
+        36,
+        49
+      ],
+      "blue": [
+        53,
+        38
+      ]
+    }
+  },
+  {
+    "id": 541,
+    "image": "data/raw/images/sample_0541.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -0.7,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      33
+    ],
+    "blocks": {
+      "red": [
+        17,
+        47
+      ],
+      "green": [
+        40,
+        54
+      ],
+      "blue": [
+        15,
+        19
+      ]
+    }
+  },
+  {
+    "id": 479,
+    "image": "data/raw/images/sample_0479.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.15,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      28,
+      10
+    ],
+    "blocks": {
+      "red": [
+        31,
+        54
+      ],
+      "green": [
+        17,
+        29
+      ],
+      "blue": [
+        38,
+        40
+      ]
+    }
+  },
+  {
+    "id": 963,
+    "image": "data/raw/images/sample_0963.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.85,
+      -0.35,
+      0.0
+    ],
+    "agent_pos": [
+      13,
+      26
+    ],
+    "blocks": {
+      "red": [
+        31,
+        54
+      ],
+      "green": [
+        49,
+        34
+      ],
+      "blue": [
+        30,
+        19
+      ]
+    }
+  },
+  {
+    "id": 390,
+    "image": "data/raw/images/sample_0390.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.2,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      32,
+      18
+    ],
+    "blocks": {
+      "red": [
+        52,
+        51
+      ],
+      "green": [
+        28,
+        49
+      ],
+      "blue": [
+        14,
+        22
+      ]
+    }
+  },
+  {
+    "id": 394,
+    "image": "data/raw/images/sample_0394.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      11
+    ],
+    "blocks": {
+      "red": [
+        42,
+        50
+      ],
+      "green": [
+        11,
+        47
+      ],
+      "blue": [
+        47,
+        35
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "image": "data/raw/images/sample_0065.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.85,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      19,
+      19
+    ],
+    "blocks": {
+      "red": [
+        46,
+        29
+      ],
+      "green": [
+        17,
+        45
+      ],
+      "blue": [
+        36,
+        48
+      ]
+    }
+  },
+  {
+    "id": 610,
+    "image": "data/raw/images/sample_0610.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      0.85,
+      0.0
+    ],
+    "agent_pos": [
+      42,
+      35
+    ],
+    "blocks": {
+      "red": [
+        22,
+        41
+      ],
+      "green": [
+        13,
+        52
+      ],
+      "blue": [
+        33,
+        10
+      ]
+    }
+  },
+  {
+    "id": 956,
+    "image": "data/raw/images/sample_0956.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -0.3,
+      0.0
+    ],
+    "agent_pos": [
+      48,
+      52
+    ],
+    "blocks": {
+      "red": [
+        14,
+        46
+      ],
+      "green": [
+        51,
+        36
+      ],
+      "blue": [
+        30,
+        30
+      ]
+    }
+  },
+  {
+    "id": 696,
+    "image": "data/raw/images/sample_0696.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      0.35,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      37
+    ],
+    "blocks": {
+      "red": [
+        50,
+        44
+      ],
+      "green": [
+        22,
+        15
+      ],
+      "blue": [
+        37,
+        11
+      ]
+    }
+  },
+  {
+    "id": 811,
+    "image": "data/raw/images/sample_0811.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.05,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      22
+    ],
+    "blocks": {
+      "red": [
+        13,
+        50
+      ],
+      "green": [
+        45,
+        23
+      ],
+      "blue": [
+        25,
+        42
+      ]
+    }
+  },
+  {
+    "id": 958,
+    "image": "data/raw/images/sample_0958.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "agent_pos": [
+      38,
+      20
+    ],
+    "blocks": {
+      "red": [
+        48,
+        30
+      ],
+      "green": [
+        25,
+        46
+      ],
+      "blue": [
+        11,
+        28
+      ]
+    }
+  },
+  {
+    "id": 642,
+    "image": "data/raw/images/sample_0642.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      25
+    ],
+    "blocks": {
+      "red": [
+        25,
+        51
+      ],
+      "green": [
+        20,
+        11
+      ],
+      "blue": [
+        44,
+        30
+      ]
+    }
+  },
+  {
+    "id": 156,
+    "image": "data/raw/images/sample_0156.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.65,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      28,
+      15
+    ],
+    "blocks": {
+      "red": [
+        50,
+        45
+      ],
+      "green": [
+        50,
+        29
+      ],
+      "blue": [
+        15,
+        42
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "image": "data/raw/images/sample_0112.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.6,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      23,
+      19
+    ],
+    "blocks": {
+      "red": [
+        52,
+        40
+      ],
+      "green": [
+        32,
+        45
+      ],
+      "blue": [
+        11,
+        48
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "image": "data/raw/images/sample_0048.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.2,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      10
+    ],
+    "blocks": {
+      "red": [
+        32,
+        29
+      ],
+      "green": [
+        44,
+        44
+      ],
+      "blue": [
+        48,
+        24
+      ]
+    }
+  },
+  {
+    "id": 773,
+    "image": "data/raw/images/sample_0773.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.05,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      42,
+      33
+    ],
+    "blocks": {
+      "red": [
+        43,
+        54
+      ],
+      "green": [
+        51,
+        12
+      ],
+      "blue": [
+        23,
+        24
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "image": "data/raw/images/sample_0093.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      47
+    ],
+    "blocks": {
+      "red": [
+        33,
+        18
+      ],
+      "green": [
+        15,
+        28
+      ],
+      "blue": [
+        30,
+        36
+      ]
+    }
+  },
+  {
+    "id": 505,
+    "image": "data/raw/images/sample_0505.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.8,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      52
+    ],
+    "blocks": {
+      "red": [
+        45,
+        21
+      ],
+      "green": [
+        33,
+        12
+      ],
+      "blue": [
+        15,
+        29
+      ]
+    }
+  },
+  {
+    "id": 521,
+    "image": "data/raw/images/sample_0521.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.35,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      45
+    ],
+    "blocks": {
+      "red": [
+        42,
+        16
+      ],
+      "green": [
+        23,
+        44
+      ],
+      "blue": [
+        30,
+        27
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "image": "data/raw/images/sample_0141.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.7,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      11,
+      32
+    ],
+    "blocks": {
+      "red": [
+        25,
+        52
+      ],
+      "green": [
+        50,
+        16
+      ],
+      "blue": [
+        47,
+        31
+      ]
+    }
+  },
+  {
+    "id": 881,
+    "image": "data/raw/images/sample_0881.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.5,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      29,
+      40
+    ],
+    "blocks": {
+      "red": [
+        19,
+        12
+      ],
+      "green": [
+        14,
+        40
+      ],
+      "blue": [
+        42,
+        11
+      ]
+    }
+  },
+  {
+    "id": 925,
+    "image": "data/raw/images/sample_0925.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      -0.7,
+      0.0
+    ],
+    "agent_pos": [
+      33,
+      37
+    ],
+    "blocks": {
+      "red": [
+        40,
+        23
+      ],
+      "green": [
+        13,
+        23
+      ],
+      "blue": [
+        11,
+        53
+      ]
+    }
+  },
+  {
+    "id": 408,
+    "image": "data/raw/images/sample_0408.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.25,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      43,
+      42
+    ],
+    "blocks": {
+      "red": [
+        19,
+        48
+      ],
+      "green": [
+        16,
+        21
+      ],
+      "blue": [
+        48,
+        12
+      ]
+    }
+  },
+  {
+    "id": 597,
+    "image": "data/raw/images/sample_0597.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.2,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      13,
+      14
+    ],
+    "blocks": {
+      "red": [
+        33,
+        32
+      ],
+      "green": [
+        42,
+        43
+      ],
+      "blue": [
+        17,
+        40
+      ]
+    }
+  },
+  {
+    "id": 438,
+    "image": "data/raw/images/sample_0438.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      35,
+      43
+    ],
+    "blocks": {
+      "red": [
+        15,
+        16
+      ],
+      "green": [
+        51,
+        34
+      ],
+      "blue": [
+        29,
+        24
+      ]
+    }
+  },
+  {
+    "id": 598,
+    "image": "data/raw/images/sample_0598.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      44,
+      53
+    ],
+    "blocks": {
+      "red": [
+        44,
+        28
+      ],
+      "green": [
+        54,
+        14
+      ],
+      "blue": [
+        22,
+        39
+      ]
+    }
+  },
+  {
+    "id": 764,
+    "image": "data/raw/images/sample_0764.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.5,
+      0.0
+    ],
+    "agent_pos": [
+      22,
+      50
+    ],
+    "blocks": {
+      "red": [
+        22,
+        14
+      ],
+      "green": [
+        52,
+        40
+      ],
+      "blue": [
+        54,
+        54
+      ]
+    }
+  },
+  {
+    "id": 269,
+    "image": "data/raw/images/sample_0269.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.3,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      40
+    ],
+    "blocks": {
+      "red": [
+        33,
+        34
+      ],
+      "green": [
+        19,
+        21
+      ],
+      "blue": [
+        51,
+        36
+      ]
+    }
+  },
+  {
+    "id": 551,
+    "image": "data/raw/images/sample_0551.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.85,
+      0.9,
+      0.0
+    ],
+    "agent_pos": [
+      26,
+      19
+    ],
+    "blocks": {
+      "red": [
+        43,
+        37
+      ],
+      "green": [
+        10,
+        28
+      ],
+      "blue": [
+        43,
+        53
+      ]
+    }
+  },
+  {
+    "id": 974,
+    "image": "data/raw/images/sample_0974.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      14
+    ],
+    "blocks": {
+      "red": [
+        44,
+        16
+      ],
+      "green": [
+        49,
+        54
+      ],
+      "blue": [
+        35,
+        35
+      ]
+    }
+  },
+  {
+    "id": 762,
+    "image": "data/raw/images/sample_0762.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.05,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      48,
+      31
+    ],
+    "blocks": {
+      "red": [
+        28,
+        33
+      ],
+      "green": [
+        10,
+        43
+      ],
+      "blue": [
+        47,
+        52
+      ]
+    }
+  },
+  {
+    "id": 252,
+    "image": "data/raw/images/sample_0252.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.25,
+      -0.85,
+      0.0
+    ],
+    "agent_pos": [
+      29,
+      54
+    ],
+    "blocks": {
+      "red": [
+        24,
+        37
+      ],
+      "green": [
+        51,
+        15
+      ],
+      "blue": [
+        16,
+        10
+      ]
+    }
+  },
+  {
+    "id": 992,
+    "image": "data/raw/images/sample_0992.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.85,
+      0.45,
+      0.0
+    ],
+    "agent_pos": [
+      46,
+      37
+    ],
+    "blocks": {
+      "red": [
+        47,
+        18
+      ],
+      "green": [
+        26,
+        18
+      ],
+      "blue": [
+        29,
+        46
+      ]
+    }
+  },
+  {
+    "id": 271,
+    "image": "data/raw/images/sample_0271.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.3,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      24,
+      43
+    ],
+    "blocks": {
+      "red": [
+        12,
+        35
+      ],
+      "green": [
+        28,
+        29
+      ],
+      "blue": [
+        30,
+        15
+      ]
+    }
+  },
+  {
+    "id": 146,
+    "image": "data/raw/images/sample_0146.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.9,
+      0.15,
+      0.0
+    ],
+    "agent_pos": [
+      32,
+      49
+    ],
+    "blocks": {
+      "red": [
+        37,
+        27
+      ],
+      "green": [
+        50,
+        13
+      ],
+      "blue": [
+        14,
+        52
+      ]
+    }
+  },
+  {
+    "id": 469,
+    "image": "data/raw/images/sample_0469.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.05,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      32,
+      19
+    ],
+    "blocks": {
+      "red": [
+        18,
+        26
+      ],
+      "green": [
+        33,
+        47
+      ],
+      "blue": [
+        15,
+        46
+      ]
+    }
+  },
+  {
+    "id": 658,
+    "image": "data/raw/images/sample_0658.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.55,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      33
+    ],
+    "blocks": {
+      "red": [
+        29,
+        11
+      ],
+      "green": [
+        51,
+        48
+      ],
+      "blue": [
+        12,
+        52
+      ]
+    }
+  },
+  {
+    "id": 405,
+    "image": "data/raw/images/sample_0405.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      0.6,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      11
+    ],
+    "blocks": {
+      "red": [
+        52,
+        28
+      ],
+      "green": [
+        15,
+        23
+      ],
+      "blue": [
+        38,
+        48
+      ]
+    }
+  },
+  {
+    "id": 511,
+    "image": "data/raw/images/sample_0511.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      0.35,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      22
+    ],
+    "blocks": {
+      "red": [
+        26,
+        14
+      ],
+      "green": [
+        29,
+        29
+      ],
+      "blue": [
+        42,
+        45
+      ]
+    }
+  },
+  {
+    "id": 671,
+    "image": "data/raw/images/sample_0671.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.6,
+      0.55,
+      0.0
+    ],
+    "agent_pos": [
+      21,
+      36
+    ],
+    "blocks": {
+      "red": [
+        19,
+        11
+      ],
+      "green": [
+        38,
+        25
+      ],
+      "blue": [
+        33,
+        47
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "image": "data/raw/images/sample_0217.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.3,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      28,
+      25
+    ],
+    "blocks": {
+      "red": [
+        14,
+        15
+      ],
+      "green": [
+        34,
+        50
+      ],
+      "blue": [
+        10,
+        29
+      ]
+    }
+  },
+  {
+    "id": 322,
+    "image": "data/raw/images/sample_0322.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.1,
+      -0.7,
+      0.0
+    ],
+    "agent_pos": [
+      11,
+      34
+    ],
+    "blocks": {
+      "red": [
+        13,
+        20
+      ],
+      "green": [
+        46,
+        23
+      ],
+      "blue": [
+        24,
+        51
+      ]
+    }
+  },
+  {
+    "id": 735,
+    "image": "data/raw/images/sample_0735.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -0.35,
+      0.0
+    ],
+    "agent_pos": [
+      42,
+      34
+    ],
+    "blocks": {
+      "red": [
+        17,
+        27
+      ],
+      "green": [
+        36,
+        14
+      ],
+      "blue": [
+        36,
+        50
+      ]
+    }
+  },
+  {
+    "id": 580,
+    "image": "data/raw/images/sample_0580.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.05,
+      0.0
+    ],
+    "agent_pos": [
+      10,
+      45
+    ],
+    "blocks": {
+      "red": [
+        25,
+        22
+      ],
+      "green": [
+        33,
+        44
+      ],
+      "blue": [
+        42,
+        24
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "image": "data/raw/images/sample_0216.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      37
+    ],
+    "blocks": {
+      "red": [
+        21,
+        53
+      ],
+      "green": [
+        47,
+        52
+      ],
+      "blue": [
+        34,
+        15
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "image": "data/raw/images/sample_0067.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.1,
+      0.95,
+      0.0
+    ],
+    "agent_pos": [
+      23,
+      26
+    ],
+    "blocks": {
+      "red": [
+        52,
+        15
+      ],
+      "green": [
+        21,
+        45
+      ],
+      "blue": [
+        10,
+        36
+      ]
+    }
+  },
+  {
+    "id": 274,
+    "image": "data/raw/images/sample_0274.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.3,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      29,
+      16
+    ],
+    "blocks": {
+      "red": [
+        23,
+        43
+      ],
+      "green": [
+        19,
+        27
+      ],
+      "blue": [
+        15,
+        12
+      ]
+    }
+  },
+  {
+    "id": 410,
+    "image": "data/raw/images/sample_0410.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      54,
+      46
+    ],
+    "blocks": {
+      "red": [
+        16,
+        37
+      ],
+      "green": [
+        40,
+        24
+      ],
+      "blue": [
+        22,
+        10
+      ]
+    }
+  },
+  {
+    "id": 323,
+    "image": "data/raw/images/sample_0323.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      53,
+      23
+    ],
+    "blocks": {
+      "red": [
+        27,
+        51
+      ],
+      "green": [
+        11,
+        53
+      ],
+      "blue": [
+        10,
+        24
+      ]
+    }
+  },
+  {
+    "id": 824,
+    "image": "data/raw/images/sample_0824.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.15,
+      0.8,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      31
+    ],
+    "blocks": {
+      "red": [
+        11,
+        47
+      ],
+      "green": [
+        25,
+        40
+      ],
+      "blue": [
+        41,
+        53
+      ]
+    }
+  },
+  {
+    "id": 982,
+    "image": "data/raw/images/sample_0982.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.45,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      27,
+      53
+    ],
+    "blocks": {
+      "red": [
+        43,
+        50
+      ],
+      "green": [
+        11,
+        19
+      ],
+      "blue": [
+        36,
+        24
+      ]
+    }
+  },
+  {
+    "id": 841,
+    "image": "data/raw/images/sample_0841.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -0.25,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      28
+    ],
+    "blocks": {
+      "red": [
+        19,
+        23
+      ],
+      "green": [
+        51,
+        10
+      ],
+      "blue": [
+        33,
+        46
+      ]
+    }
+  },
+  {
+    "id": 234,
+    "image": "data/raw/images/sample_0234.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.75,
+      -0.5,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      21
+    ],
+    "blocks": {
+      "red": [
+        21,
+        50
+      ],
+      "green": [
+        52,
+        37
+      ],
+      "blue": [
+        35,
+        11
+      ]
+    }
+  },
+  {
+    "id": 57,
+    "image": "data/raw/images/sample_0057.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.3,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      33,
+      14
+    ],
+    "blocks": {
+      "red": [
+        42,
+        51
+      ],
+      "green": [
+        16,
+        37
+      ],
+      "blue": [
+        27,
+        49
+      ]
+    }
+  },
+  {
+    "id": 794,
+    "image": "data/raw/images/sample_0794.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.65,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      52
+    ],
+    "blocks": {
+      "red": [
+        27,
+        19
+      ],
+      "green": [
+        38,
+        32
+      ],
+      "blue": [
+        38,
+        54
+      ]
+    }
+  },
+  {
+    "id": 786,
+    "image": "data/raw/images/sample_0786.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      48,
+      46
+    ],
+    "blocks": {
+      "red": [
+        29,
+        47
+      ],
+      "green": [
+        27,
+        22
+      ],
+      "blue": [
+        10,
+        19
+      ]
+    }
+  },
+  {
+    "id": 863,
+    "image": "data/raw/images/sample_0863.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.6,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      15
+    ],
+    "blocks": {
+      "red": [
+        20,
+        46
+      ],
+      "green": [
+        41,
+        10
+      ],
+      "blue": [
+        37,
+        53
+      ]
+    }
+  },
+  {
+    "id": 332,
+    "image": "data/raw/images/sample_0332.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      0.05,
+      0.0
+    ],
+    "agent_pos": [
+      42,
+      17
+    ],
+    "blocks": {
+      "red": [
+        53,
+        34
+      ],
+      "green": [
+        19,
+        18
+      ],
+      "blue": [
+        36,
+        46
+      ]
+    }
+  },
+  {
+    "id": 701,
+    "image": "data/raw/images/sample_0701.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.8,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      18,
+      28
+    ],
+    "blocks": {
+      "red": [
+        34,
+        36
+      ],
+      "green": [
+        53,
+        51
+      ],
+      "blue": [
+        20,
+        49
+      ]
+    }
+  },
+  {
+    "id": 224,
+    "image": "data/raw/images/sample_0224.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.95,
+      0.25,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      30
+    ],
+    "blocks": {
+      "red": [
+        21,
+        35
+      ],
+      "green": [
+        54,
+        50
+      ],
+      "blue": [
+        28,
+        54
+      ]
+    }
+  },
+  {
+    "id": 570,
+    "image": "data/raw/images/sample_0570.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      52,
+      43
+    ],
+    "blocks": {
+      "red": [
+        39,
+        53
+      ],
+      "green": [
+        44,
+        19
+      ],
+      "blue": [
+        14,
+        12
+      ]
+    }
+  },
+  {
+    "id": 704,
+    "image": "data/raw/images/sample_0704.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      0.85,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      31
+    ],
+    "blocks": {
+      "red": [
+        37,
+        17
+      ],
+      "green": [
+        17,
+        45
+      ],
+      "blue": [
+        42,
+        48
+      ]
+    }
+  },
+  {
+    "id": 655,
+    "image": "data/raw/images/sample_0655.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      47,
+      43
+    ],
+    "blocks": {
+      "red": [
+        26,
+        41
+      ],
+      "green": [
+        15,
+        25
+      ],
+      "blue": [
+        48,
+        17
+      ]
+    }
+  },
+  {
+    "id": 276,
+    "image": "data/raw/images/sample_0276.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.5,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      28
+    ],
+    "blocks": {
+      "red": [
+        35,
+        54
+      ],
+      "green": [
+        24,
+        14
+      ],
+      "blue": [
+        47,
+        16
+      ]
+    }
+  },
+  {
+    "id": 388,
+    "image": "data/raw/images/sample_0388.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      22,
+      17
+    ],
+    "blocks": {
+      "red": [
+        21,
+        52
+      ],
+      "green": [
+        46,
+        13
+      ],
+      "blue": [
+        45,
+        39
+      ]
+    }
+  },
+  {
+    "id": 473,
+    "image": "data/raw/images/sample_0473.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.85,
+      0.0
+    ],
+    "agent_pos": [
+      13,
+      29
+    ],
+    "blocks": {
+      "red": [
+        43,
+        12
+      ],
+      "green": [
+        30,
+        44
+      ],
+      "blue": [
+        54,
+        24
+      ]
+    }
+  },
+  {
+    "id": 167,
+    "image": "data/raw/images/sample_0167.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.5,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      46
+    ],
+    "blocks": {
+      "red": [
+        54,
+        17
+      ],
+      "green": [
+        22,
+        11
+      ],
+      "blue": [
+        38,
+        30
+      ]
+    }
+  },
+  {
+    "id": 994,
+    "image": "data/raw/images/sample_0994.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      32,
+      37
+    ],
+    "blocks": {
+      "red": [
+        11,
+        45
+      ],
+      "green": [
+        15,
+        18
+      ],
+      "blue": [
+        49,
+        29
+      ]
+    }
+  },
+  {
+    "id": 746,
+    "image": "data/raw/images/sample_0746.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.85,
+      0.45,
+      0.0
+    ],
+    "agent_pos": [
+      24,
+      24
+    ],
+    "blocks": {
+      "red": [
+        41,
+        33
+      ],
+      "green": [
+        41,
+        48
+      ],
+      "blue": [
+        23,
+        10
+      ]
+    }
+  },
+  {
+    "id": 546,
+    "image": "data/raw/images/sample_0546.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.6,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      15,
+      18
+    ],
+    "blocks": {
+      "red": [
+        42,
+        14
+      ],
+      "green": [
+        27,
+        26
+      ],
+      "blue": [
+        18,
+        49
+      ]
+    }
+  },
+  {
+    "id": 175,
+    "image": "data/raw/images/sample_0175.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      36,
+      51
+    ],
+    "blocks": {
+      "red": [
+        51,
+        22
+      ],
+      "green": [
+        28,
+        30
+      ],
+      "blue": [
+        13,
+        15
+      ]
+    }
+  },
+  {
+    "id": 907,
+    "image": "data/raw/images/sample_0907.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.95,
+      -0.75,
+      0.0
+    ],
+    "agent_pos": [
+      21,
+      45
+    ],
+    "blocks": {
+      "red": [
+        48,
+        14
+      ],
+      "green": [
+        54,
+        39
+      ],
+      "blue": [
+        40,
+        30
+      ]
+    }
+  },
+  {
+    "id": 623,
+    "image": "data/raw/images/sample_0623.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      17,
+      24
+    ],
+    "blocks": {
+      "red": [
+        18,
+        54
+      ],
+      "green": [
+        37,
+        54
+      ],
+      "blue": [
+        11,
+        40
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "image": "data/raw/images/sample_0073.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      21,
+      47
+    ],
+    "blocks": {
+      "red": [
+        37,
+        50
+      ],
+      "green": [
+        41,
+        15
+      ],
+      "blue": [
+        40,
+        32
+      ]
+    }
+  },
+  {
+    "id": 663,
+    "image": "data/raw/images/sample_0663.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      0.3,
+      0.0
+    ],
+    "agent_pos": [
+      48,
+      45
+    ],
+    "blocks": {
+      "red": [
+        30,
+        39
+      ],
+      "green": [
+        54,
+        11
+      ],
+      "blue": [
+        13,
+        51
+      ]
+    }
+  },
+  {
+    "id": 699,
+    "image": "data/raw/images/sample_0699.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.95,
+      0.05,
+      0.0
+    ],
+    "agent_pos": [
+      36,
+      40
+    ],
+    "blocks": {
+      "red": [
+        17,
+        41
+      ],
+      "green": [
+        49,
+        51
+      ],
+      "blue": [
+        54,
+        37
+      ]
+    }
+  },
+  {
+    "id": 970,
+    "image": "data/raw/images/sample_0970.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      16
+    ],
+    "blocks": {
+      "red": [
+        17,
+        25
+      ],
+      "green": [
+        11,
+        39
+      ],
+      "blue": [
+        52,
+        43
+      ]
+    }
+  },
+  {
+    "id": 273,
+    "image": "data/raw/images/sample_0273.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      11,
+      24
+    ],
+    "blocks": {
+      "red": [
+        44,
+        32
+      ],
+      "green": [
+        50,
+        54
+      ],
+      "blue": [
+        10,
+        52
+      ]
+    }
+  },
+  {
+    "id": 686,
+    "image": "data/raw/images/sample_0686.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      15,
+      37
+    ],
+    "blocks": {
+      "red": [
+        33,
+        49
+      ],
+      "green": [
+        50,
+        37
+      ],
+      "blue": [
+        15,
+        12
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "image": "data/raw/images/sample_0214.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.8,
+      0.3,
+      0.0
+    ],
+    "agent_pos": [
+      15,
+      42
+    ],
+    "blocks": {
+      "red": [
+        32,
+        13
+      ],
+      "green": [
+        31,
+        48
+      ],
+      "blue": [
+        49,
+        48
+      ]
+    }
+  },
+  {
+    "id": 363,
+    "image": "data/raw/images/sample_0363.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.55,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      22
+    ],
+    "blocks": {
+      "red": [
+        50,
+        53
+      ],
+      "green": [
+        38,
+        39
+      ],
+      "blue": [
+        21,
+        18
+      ]
+    }
+  },
+  {
+    "id": 379,
+    "image": "data/raw/images/sample_0379.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.75,
+      0.0
+    ],
+    "agent_pos": [
+      22,
+      30
+    ],
+    "blocks": {
+      "red": [
+        42,
+        15
+      ],
+      "green": [
+        44,
+        44
+      ],
+      "blue": [
+        10,
+        50
+      ]
+    }
+  },
+  {
+    "id": 166,
+    "image": "data/raw/images/sample_0166.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.35,
+      0.0
+    ],
+    "agent_pos": [
+      17,
+      36
+    ],
+    "blocks": {
+      "red": [
+        47,
+        29
+      ],
+      "green": [
+        54,
+        50
+      ],
+      "blue": [
+        19,
+        53
+      ]
+    }
+  },
+  {
+    "id": 373,
+    "image": "data/raw/images/sample_0373.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      45,
+      26
+    ],
+    "blocks": {
+      "red": [
+        18,
+        20
+      ],
+      "green": [
+        30,
+        48
+      ],
+      "blue": [
+        13,
+        50
+      ]
+    }
+  },
+  {
+    "id": 854,
+    "image": "data/raw/images/sample_0854.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.4,
+      -0.85,
+      0.0
+    ],
+    "agent_pos": [
+      14,
+      50
+    ],
+    "blocks": {
+      "red": [
+        54,
+        51
+      ],
+      "green": [
+        22,
+        33
+      ],
+      "blue": [
+        48,
+        20
+      ]
+    }
+  },
+  {
+    "id": 650,
+    "image": "data/raw/images/sample_0650.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.5,
+      0.6,
+      0.0
+    ],
+    "agent_pos": [
+      19,
+      25
+    ],
+    "blocks": {
+      "red": [
+        19,
+        53
+      ],
+      "green": [
+        29,
+        37
+      ],
+      "blue": [
+        51,
+        20
+      ]
+    }
+  },
+  {
+    "id": 464,
+    "image": "data/raw/images/sample_0464.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.45,
+      -0.55,
+      0.0
+    ],
+    "agent_pos": [
+      13,
+      33
+    ],
+    "blocks": {
+      "red": [
+        45,
+        36
+      ],
+      "green": [
+        33,
+        13
+      ],
+      "blue": [
+        22,
+        22
+      ]
+    }
+  },
+  {
+    "id": 954,
+    "image": "data/raw/images/sample_0954.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.45,
+      0.0
+    ],
+    "agent_pos": [
+      33,
+      19
+    ],
+    "blocks": {
+      "red": [
+        10,
+        30
+      ],
+      "green": [
+        54,
+        10
+      ],
+      "blue": [
+        39,
+        46
+      ]
+    }
+  },
+  {
+    "id": 947,
+    "image": "data/raw/images/sample_0947.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      21,
+      52
+    ],
+    "blocks": {
+      "red": [
+        46,
+        50
+      ],
+      "green": [
+        48,
+        12
+      ],
+      "blue": [
+        17,
+        31
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "image": "data/raw/images/sample_0103.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.4,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      18,
+      44
+    ],
+    "blocks": {
+      "red": [
+        26,
+        21
+      ],
+      "green": [
+        11,
+        18
+      ],
+      "blue": [
+        10,
+        32
+      ]
+    }
+  },
+  {
+    "id": 887,
+    "image": "data/raw/images/sample_0887.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -0.55,
+      0.0
+    ],
+    "agent_pos": [
+      54,
+      34
+    ],
+    "blocks": {
+      "red": [
+        50,
+        50
+      ],
+      "green": [
+        23,
+        38
+      ],
+      "blue": [
+        27,
+        23
+      ]
+    }
+  },
+  {
+    "id": 978,
+    "image": "data/raw/images/sample_0978.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -0.5,
+      0.0
+    ],
+    "agent_pos": [
+      37,
+      31
+    ],
+    "blocks": {
+      "red": [
+        11,
+        21
+      ],
+      "green": [
+        26,
+        14
+      ],
+      "blue": [
+        20,
+        53
+      ]
+    }
+  },
+  {
+    "id": 875,
+    "image": "data/raw/images/sample_0875.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.2,
+      -0.8,
+      0.0
+    ],
+    "agent_pos": [
+      18,
+      35
+    ],
+    "blocks": {
+      "red": [
+        22,
+        19
+      ],
+      "green": [
+        37,
+        11
+      ],
+      "blue": [
+        49,
+        22
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "image": "data/raw/images/sample_0081.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      -0.65,
+      0.0
+    ],
+    "agent_pos": [
+      19,
+      38
+    ],
+    "blocks": {
+      "red": [
+        44,
+        40
+      ],
+      "green": [
+        32,
+        31
+      ],
+      "blue": [
+        54,
+        25
+      ]
+    }
+  },
+  {
+    "id": 296,
+    "image": "data/raw/images/sample_0296.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.95,
+      0.0
+    ],
+    "agent_pos": [
+      10,
+      54
+    ],
+    "blocks": {
+      "red": [
+        46,
+        35
+      ],
+      "green": [
+        46,
+        12
+      ],
+      "blue": [
+        30,
+        49
+      ]
+    }
+  },
+  {
+    "id": 791,
+    "image": "data/raw/images/sample_0791.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.65,
+      -0.85,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      34
+    ],
+    "blocks": {
+      "red": [
+        22,
+        35
+      ],
+      "green": [
+        12,
+        10
+      ],
+      "blue": [
+        26,
+        17
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "image": "data/raw/images/sample_0233.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.4,
+      0.0
+    ],
+    "agent_pos": [
+      21,
+      45
+    ],
+    "blocks": {
+      "red": [
+        20,
+        31
+      ],
+      "green": [
+        45,
+        37
+      ],
+      "blue": [
+        39,
+        24
+      ]
+    }
+  },
+  {
+    "id": 677,
+    "image": "data/raw/images/sample_0677.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.0,
+      0.95,
+      0.0
+    ],
+    "agent_pos": [
+      38,
+      13
+    ],
+    "blocks": {
+      "red": [
+        22,
+        19
+      ],
+      "green": [
+        20,
+        39
+      ],
+      "blue": [
+        38,
+        32
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "image": "data/raw/images/sample_0046.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.65,
+      -0.35,
+      0.0
+    ],
+    "agent_pos": [
+      28,
+      25
+    ],
+    "blocks": {
+      "red": [
+        30,
+        44
+      ],
+      "green": [
+        15,
+        18
+      ],
+      "blue": [
+        14,
+        36
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "image": "data/raw/images/sample_0071.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      0.45,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      37
+    ],
+    "blocks": {
+      "red": [
+        30,
+        48
+      ],
+      "green": [
+        26,
+        11
+      ],
+      "blue": [
+        53,
+        46
+      ]
+    }
+  },
+  {
+    "id": 721,
+    "image": "data/raw/images/sample_0721.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -0.95,
+      0.0
+    ],
+    "agent_pos": [
+      41,
+      39
+    ],
+    "blocks": {
+      "red": [
+        18,
+        42
+      ],
+      "green": [
+        43,
+        17
+      ],
+      "blue": [
+        12,
+        20
+      ]
+    }
+  },
+  {
+    "id": 196,
+    "image": "data/raw/images/sample_0196.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.5,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      47,
+      21
+    ],
+    "blocks": {
+      "red": [
+        50,
+        53
+      ],
+      "green": [
+        37,
+        45
+      ],
+      "blue": [
+        54,
+        36
+      ]
+    }
+  },
+  {
+    "id": 591,
+    "image": "data/raw/images/sample_0591.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.85,
+      0.0
+    ],
+    "agent_pos": [
+      18,
+      32
+    ],
+    "blocks": {
+      "red": [
+        51,
+        15
+      ],
+      "green": [
+        52,
+        29
+      ],
+      "blue": [
+        46,
+        47
+      ]
+    }
+  },
+  {
+    "id": 370,
+    "image": "data/raw/images/sample_0370.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      16,
+      49
+    ],
+    "blocks": {
+      "red": [
+        53,
+        45
+      ],
+      "green": [
+        54,
+        28
+      ],
+      "blue": [
+        13,
+        34
+      ]
+    }
+  },
+  {
+    "id": 882,
+    "image": "data/raw/images/sample_0882.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.65,
+      0.7,
+      0.0
+    ],
+    "agent_pos": [
+      48,
+      27
+    ],
+    "blocks": {
+      "red": [
+        28,
+        12
+      ],
+      "green": [
+        46,
+        13
+      ],
+      "blue": [
+        35,
+        41
+      ]
+    }
+  },
+  {
+    "id": 906,
+    "image": "data/raw/images/sample_0906.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.4,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      27,
+      15
+    ],
+    "blocks": {
+      "red": [
+        43,
+        34
+      ],
+      "green": [
+        35,
+        49
+      ],
+      "blue": [
+        13,
+        24
+      ]
+    }
+  },
+  {
+    "id": 633,
+    "image": "data/raw/images/sample_0633.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.95,
+      -0.15,
+      0.0
+    ],
+    "agent_pos": [
+      16,
+      20
+    ],
+    "blocks": {
+      "red": [
+        22,
+        48
+      ],
+      "green": [
+        35,
+        17
+      ],
+      "blue": [
+        47,
+        47
+      ]
+    }
+  },
+  {
+    "id": 643,
+    "image": "data/raw/images/sample_0643.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.6,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      52
+    ],
+    "blocks": {
+      "red": [
+        42,
+        36
+      ],
+      "green": [
+        27,
+        11
+      ],
+      "blue": [
+        47,
+        11
+      ]
+    }
+  },
+  {
+    "id": 849,
+    "image": "data/raw/images/sample_0849.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.45,
+      0.9,
+      0.0
+    ],
+    "agent_pos": [
+      20,
+      15
+    ],
+    "blocks": {
+      "red": [
+        45,
+        26
+      ],
+      "green": [
+        17,
+        42
+      ],
+      "blue": [
+        29,
+        33
+      ]
+    }
+  },
+  {
+    "id": 300,
+    "image": "data/raw/images/sample_0300.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.9,
+      0.0,
+      0.0
+    ],
+    "agent_pos": [
+      38,
+      36
+    ],
+    "blocks": {
+      "red": [
+        20,
+        36
+      ],
+      "green": [
+        34,
+        16
+      ],
+      "blue": [
+        51,
+        53
+      ]
+    }
+  },
+  {
+    "id": 565,
+    "image": "data/raw/images/sample_0565.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      -0.7,
+      0.0
+    ],
+    "agent_pos": [
+      17,
+      46
+    ],
+    "blocks": {
+      "red": [
+        44,
+        32
+      ],
+      "green": [
+        31,
+        53
+      ],
+      "blue": [
+        29,
+        35
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "image": "data/raw/images/sample_0080.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.35,
+      0.8,
+      0.0
+    ],
+    "agent_pos": [
+      36,
+      31
+    ],
+    "blocks": {
+      "red": [
+        10,
+        28
+      ],
+      "green": [
+        29,
+        47
+      ],
+      "blue": [
+        47,
+        52
+      ]
+    }
+  },
+  {
+    "id": 387,
+    "image": "data/raw/images/sample_0387.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.85,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      46,
+      48
+    ],
+    "blocks": {
+      "red": [
+        45,
+        15
+      ],
+      "green": [
+        29,
+        23
+      ],
+      "blue": [
+        24,
+        49
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "image": "data/raw/images/sample_0127.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      0.7,
+      0.0
+    ],
+    "agent_pos": [
+      28,
+      34
+    ],
+    "blocks": {
+      "red": [
+        53,
+        48
+      ],
+      "green": [
+        13,
+        50
+      ],
+      "blue": [
+        51,
+        31
+      ]
+    }
+  },
+  {
+    "id": 549,
+    "image": "data/raw/images/sample_0549.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.45,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      41,
+      36
+    ],
+    "blocks": {
+      "red": [
+        50,
+        20
+      ],
+      "green": [
+        23,
+        46
+      ],
+      "blue": [
+        32,
+        13
+      ]
+    }
+  },
+  {
+    "id": 470,
+    "image": "data/raw/images/sample_0470.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      0.35,
+      0.0
+    ],
+    "agent_pos": [
+      46,
+      23
+    ],
+    "blocks": {
+      "red": [
+        14,
+        30
+      ],
+      "green": [
+        41,
+        54
+      ],
+      "blue": [
+        54,
+        46
+      ]
+    }
+  },
+  {
+    "id": 747,
+    "image": "data/raw/images/sample_0747.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.15,
+      0.9,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      35
+    ],
+    "blocks": {
+      "red": [
+        17,
+        27
+      ],
+      "green": [
+        41,
+        20
+      ],
+      "blue": [
+        53,
+        53
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "image": "data/raw/images/sample_0044.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      24,
+      21
+    ],
+    "blocks": {
+      "red": [
+        54,
+        43
+      ],
+      "green": [
+        39,
+        13
+      ],
+      "blue": [
+        17,
+        39
+      ]
+    }
+  },
+  {
+    "id": 826,
+    "image": "data/raw/images/sample_0826.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.45,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      48
+    ],
+    "blocks": {
+      "red": [
+        43,
+        27
+      ],
+      "green": [
+        25,
+        33
+      ],
+      "blue": [
+        31,
+        16
+      ]
+    }
+  },
+  {
+    "id": 270,
+    "image": "data/raw/images/sample_0270.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.8,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      30,
+      25
+    ],
+    "blocks": {
+      "red": [
+        46,
+        33
+      ],
+      "green": [
+        17,
+        42
+      ],
+      "blue": [
+        53,
+        13
+      ]
+    }
+  },
+  {
+    "id": 618,
+    "image": "data/raw/images/sample_0618.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      0.2,
+      0.0
+    ],
+    "agent_pos": [
+      22,
+      50
+    ],
+    "blocks": {
+      "red": [
+        21,
+        16
+      ],
+      "green": [
+        48,
+        20
+      ],
+      "blue": [
+        53,
+        54
+      ]
+    }
+  },
+  {
+    "id": 352,
+    "image": "data/raw/images/sample_0352.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.75,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      32
+    ],
+    "blocks": {
+      "red": [
+        49,
+        11
+      ],
+      "green": [
+        17,
+        36
+      ],
+      "blue": [
+        51,
+        30
+      ]
+    }
+  },
+  {
+    "id": 867,
+    "image": "data/raw/images/sample_0867.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      41
+    ],
+    "blocks": {
+      "red": [
+        13,
+        32
+      ],
+      "green": [
+        10,
+        49
+      ],
+      "blue": [
+        39,
+        31
+      ]
+    }
+  },
+  {
+    "id": 367,
+    "image": "data/raw/images/sample_0367.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.2,
+      -0.95,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      47
+    ],
+    "blocks": {
+      "red": [
+        44,
+        28
+      ],
+      "green": [
+        37,
+        10
+      ],
+      "blue": [
+        11,
+        34
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "image": "data/raw/images/sample_0099.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.8,
+      -0.4,
+      0.0
+    ],
+    "agent_pos": [
+      54,
+      33
+    ],
+    "blocks": {
+      "red": [
+        23,
+        38
+      ],
+      "green": [
+        38,
+        25
+      ],
+      "blue": [
+        44,
+        51
+      ]
+    }
+  },
+  {
+    "id": 389,
+    "image": "data/raw/images/sample_0389.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      0.6,
+      0.0
+    ],
+    "agent_pos": [
+      45,
+      14
+    ],
+    "blocks": {
+      "red": [
+        28,
+        52
+      ],
+      "green": [
+        14,
+        26
+      ],
+      "blue": [
+        47,
+        41
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "image": "data/raw/images/sample_0094.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.6,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      22,
+      18
+    ],
+    "blocks": {
+      "red": [
+        44,
+        33
+      ],
+      "green": [
+        26,
+        40
+      ],
+      "blue": [
+        10,
+        26
+      ]
+    }
+  },
+  {
+    "id": 990,
+    "image": "data/raw/images/sample_0990.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      15,
+      27
+    ],
+    "blocks": {
+      "red": [
+        37,
+        47
+      ],
+      "green": [
+        24,
+        12
+      ],
+      "blue": [
+        40,
+        32
+      ]
+    }
+  },
+  {
+    "id": 344,
+    "image": "data/raw/images/sample_0344.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      0.3,
+      0.0
+    ],
+    "agent_pos": [
+      17,
+      16
+    ],
+    "blocks": {
+      "red": [
+        41,
+        22
+      ],
+      "green": [
+        26,
+        43
+      ],
+      "blue": [
+        45,
+        41
+      ]
+    }
+  },
+  {
+    "id": 781,
+    "image": "data/raw/images/sample_0781.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.45,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      35,
+      54
+    ],
+    "blocks": {
+      "red": [
+        44,
+        29
+      ],
+      "green": [
+        11,
+        46
+      ],
+      "blue": [
+        12,
+        18
+      ]
+    }
+  },
+  {
+    "id": 220,
+    "image": "data/raw/images/sample_0220.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.55,
+      0.0
+    ],
+    "agent_pos": [
+      15,
+      45
+    ],
+    "blocks": {
+      "red": [
+        43,
+        20
+      ],
+      "green": [
+        53,
+        34
+      ],
+      "blue": [
+        20,
+        18
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "image": "data/raw/images/sample_0159.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.65,
+      0.5,
+      0.0
+    ],
+    "agent_pos": [
+      40,
+      25
+    ],
+    "blocks": {
+      "red": [
+        53,
+        35
+      ],
+      "green": [
+        29,
+        39
+      ],
+      "blue": [
+        14,
+        54
+      ]
+    }
+  },
+  {
+    "id": 964,
+    "image": "data/raw/images/sample_0964.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.5,
+      -0.5,
+      0.0
+    ],
+    "agent_pos": [
+      36,
+      50
+    ],
+    "blocks": {
+      "red": [
+        17,
+        43
+      ],
+      "green": [
+        43,
+        25
+      ],
+      "blue": [
+        46,
+        40
+      ]
+    }
+  },
+  {
+    "id": 348,
+    "image": "data/raw/images/sample_0348.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      0.5,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      10
+    ],
+    "blocks": {
+      "red": [
+        18,
+        52
+      ],
+      "green": [
+        51,
+        20
+      ],
+      "blue": [
+        31,
+        32
+      ]
+    }
+  },
+  {
+    "id": 983,
+    "image": "data/raw/images/sample_0983.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.3,
+      0.7,
+      0.0
+    ],
+    "agent_pos": [
+      19,
+      32
+    ],
+    "blocks": {
+      "red": [
+        41,
+        11
+      ],
+      "green": [
+        25,
+        46
+      ],
+      "blue": [
+        54,
+        37
+      ]
+    }
+  },
+  {
+    "id": 714,
+    "image": "data/raw/images/sample_0714.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.55,
+      0.55,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      18
+    ],
+    "blocks": {
+      "red": [
+        43,
+        44
+      ],
+      "green": [
+        15,
+        42
+      ],
+      "blue": [
+        45,
+        29
+      ]
+    }
+  },
+  {
+    "id": 163,
+    "image": "data/raw/images/sample_0163.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.05,
+      -0.85,
+      0.0
+    ],
+    "agent_pos": [
+      46,
+      45
+    ],
+    "blocks": {
+      "red": [
+        22,
+        33
+      ],
+      "green": [
+        45,
+        28
+      ],
+      "blue": [
+        18,
+        16
+      ]
+    }
+  },
+  {
+    "id": 825,
+    "image": "data/raw/images/sample_0825.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.85,
+      -0.15,
+      0.0
+    ],
+    "agent_pos": [
+      10,
+      13
+    ],
+    "blocks": {
+      "red": [
+        27,
+        10
+      ],
+      "green": [
+        52,
+        47
+      ],
+      "blue": [
+        23,
+        43
+      ]
+    }
+  },
+  {
+    "id": 777,
+    "image": "data/raw/images/sample_0777.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      22,
+      53
+    ],
+    "blocks": {
+      "red": [
+        31,
+        26
+      ],
+      "green": [
+        48,
+        18
+      ],
+      "blue": [
+        10,
+        29
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "image": "data/raw/images/sample_0006.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      0.95,
+      0.0
+    ],
+    "agent_pos": [
+      16,
+      34
+    ],
+    "blocks": {
+      "red": [
+        50,
+        33
+      ],
+      "green": [
+        32,
+        23
+      ],
+      "blue": [
+        54,
+        53
+      ]
+    }
+  },
+  {
+    "id": 890,
+    "image": "data/raw/images/sample_0890.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.85,
+      -0.05,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      11
+    ],
+    "blocks": {
+      "red": [
+        17,
+        10
+      ],
+      "green": [
+        51,
+        12
+      ],
+      "blue": [
+        18,
+        25
+      ]
+    }
+  },
+  {
+    "id": 828,
+    "image": "data/raw/images/sample_0828.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.15,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      53
+    ],
+    "blocks": {
+      "red": [
+        42,
+        36
+      ],
+      "green": [
+        52,
+        22
+      ],
+      "blue": [
+        10,
+        50
+      ]
+    }
+  },
+  {
+    "id": 284,
+    "image": "data/raw/images/sample_0284.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.75,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      34,
+      53
+    ],
+    "blocks": {
+      "red": [
+        37,
+        21
+      ],
+      "green": [
+        21,
+        27
+      ],
+      "blue": [
+        19,
+        12
+      ]
+    }
+  },
+  {
+    "id": 603,
+    "image": "data/raw/images/sample_0603.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.8,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      20
+    ],
+    "blocks": {
+      "red": [
+        21,
+        21
+      ],
+      "green": [
+        54,
+        52
+      ],
+      "blue": [
+        23,
+        45
+      ]
+    }
+  },
+  {
+    "id": 459,
+    "image": "data/raw/images/sample_0459.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      46,
+      21
+    ],
+    "blocks": {
+      "red": [
+        30,
+        39
+      ],
+      "green": [
+        14,
+        43
+      ],
+      "blue": [
+        50,
+        42
+      ]
+    }
+  },
+  {
+    "id": 225,
+    "image": "data/raw/images/sample_0225.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.55,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      36,
+      53
+    ],
+    "blocks": {
+      "red": [
+        41,
+        18
+      ],
+      "green": [
+        50,
+        29
+      ],
+      "blue": [
+        25,
+        26
+      ]
+    }
+  },
+  {
+    "id": 429,
+    "image": "data/raw/images/sample_0429.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.95,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      41,
+      37
+    ],
+    "blocks": {
+      "red": [
+        23,
+        36
+      ],
+      "green": [
+        53,
+        24
+      ],
+      "blue": [
+        22,
+        19
+      ]
+    }
+  },
+  {
+    "id": 986,
+    "image": "data/raw/images/sample_0986.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      -0.1,
+      0.0
+    ],
+    "agent_pos": [
+      47,
+      43
+    ],
+    "blocks": {
+      "red": [
+        49,
+        17
+      ],
+      "green": [
+        28,
+        17
+      ],
+      "blue": [
+        10,
+        41
+      ]
+    }
+  },
+  {
+    "id": 718,
+    "image": "data/raw/images/sample_0718.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.8,
+      -0.45,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      52
+    ],
+    "blocks": {
+      "red": [
+        24,
+        32
+      ],
+      "green": [
+        53,
+        18
+      ],
+      "blue": [
+        34,
+        43
+      ]
+    }
+  },
+  {
+    "id": 665,
+    "image": "data/raw/images/sample_0665.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.6,
+      -0.5,
+      0.0
+    ],
+    "agent_pos": [
+      29,
+      30
+    ],
+    "blocks": {
+      "red": [
+        46,
+        15
+      ],
+      "green": [
+        17,
+        20
+      ],
+      "blue": [
+        48,
+        53
+      ]
+    }
+  },
+  {
+    "id": 733,
+    "image": "data/raw/images/sample_0733.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.85,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      13,
+      49
+    ],
+    "blocks": {
+      "red": [
+        30,
+        21
+      ],
+      "green": [
+        11,
+        13
+      ],
+      "blue": [
+        16,
+        30
+      ]
+    }
+  },
+  {
+    "id": 203,
+    "image": "data/raw/images/sample_0203.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      0.7,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      41
+    ],
+    "blocks": {
+      "red": [
+        45,
+        51
+      ],
+      "green": [
+        53,
+        31
+      ],
+      "blue": [
+        39,
+        20
+      ]
+    }
+  },
+  {
+    "id": 574,
+    "image": "data/raw/images/sample_0574.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      53,
+      35
+    ],
+    "blocks": {
+      "red": [
+        30,
+        17
+      ],
+      "green": [
+        44,
+        18
+      ],
+      "blue": [
+        12,
+        47
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "image": "data/raw/images/sample_0027.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      1.0,
+      -0.2,
+      0.0
+    ],
+    "agent_pos": [
+      25,
+      33
+    ],
+    "blocks": {
+      "red": [
+        38,
+        44
+      ],
+      "green": [
+        10,
+        52
+      ],
+      "blue": [
+        45,
+        29
+      ]
+    }
+  },
+  {
+    "id": 616,
+    "image": "data/raw/images/sample_0616.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      54,
+      17
+    ],
+    "blocks": {
+      "red": [
+        33,
+        42
+      ],
+      "green": [
+        26,
+        20
+      ],
+      "blue": [
+        18,
+        32
+      ]
+    }
+  },
+  {
+    "id": 517,
+    "image": "data/raw/images/sample_0517.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      -0.15,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      30,
+      12
+    ],
+    "blocks": {
+      "red": [
+        27,
+        36
+      ],
+      "green": [
+        12,
+        22
+      ],
+      "blue": [
+        40,
+        42
+      ]
+    }
+  },
+  {
+    "id": 238,
+    "image": "data/raw/images/sample_0238.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.05,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      29,
+      49
+    ],
+    "blocks": {
+      "red": [
+        47,
+        15
+      ],
+      "green": [
+        30,
+        17
+      ],
+      "blue": [
+        46,
+        34
+      ]
+    }
+  },
+  {
+    "id": 223,
+    "image": "data/raw/images/sample_0223.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.15,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      31,
+      49
+    ],
+    "blocks": {
+      "red": [
+        34,
+        31
+      ],
+      "green": [
+        48,
+        18
+      ],
+      "blue": [
+        48,
+        54
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "image": "data/raw/images/sample_0095.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.8,
+      0.7,
+      0.0
+    ],
+    "agent_pos": [
+      17,
+      39
+    ],
+    "blocks": {
+      "red": [
+        33,
+        53
+      ],
+      "green": [
+        53,
+        26
+      ],
+      "blue": [
+        16,
+        53
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "image": "data/raw/images/sample_0030.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.95,
+      0.4,
+      0.0
+    ],
+    "agent_pos": [
+      31,
+      18
+    ],
+    "blocks": {
+      "red": [
+        50,
+        26
+      ],
+      "green": [
+        20,
+        38
+      ],
+      "blue": [
+        45,
+        10
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "image": "data/raw/images/sample_0032.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      1.0,
+      0.65,
+      0.0
+    ],
+    "agent_pos": [
+      33,
+      12
+    ],
+    "blocks": {
+      "red": [
+        53,
+        25
+      ],
+      "green": [
+        32,
+        45
+      ],
+      "blue": [
+        19,
+        25
+      ]
+    }
+  },
+  {
+    "id": 432,
+    "image": "data/raw/images/sample_0432.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.55,
+      0.65,
+      0.0
+    ],
+    "agent_pos": [
+      33,
+      33
+    ],
+    "blocks": {
+      "red": [
+        45,
+        45
+      ],
+      "green": [
+        11,
+        36
+      ],
+      "blue": [
+        22,
+        46
+      ]
+    }
+  },
+  {
+    "id": 604,
+    "image": "data/raw/images/sample_0604.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.9,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      52
+    ],
+    "blocks": {
+      "red": [
+        30,
+        32
+      ],
+      "green": [
+        38,
+        44
+      ],
+      "blue": [
+        29,
+        17
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "image": "data/raw/images/sample_0089.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.75,
+      -0.6,
+      0.0
+    ],
+    "agent_pos": [
+      53,
+      44
+    ],
+    "blocks": {
+      "red": [
+        20,
+        14
+      ],
+      "green": [
+        38,
+        32
+      ],
+      "blue": [
+        54,
+        26
+      ]
+    }
+  },
+  {
+    "id": 558,
+    "image": "data/raw/images/sample_0558.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      -0.6,
+      0.0
+    ],
+    "agent_pos": [
+      21,
+      26
+    ],
+    "blocks": {
+      "red": [
+        28,
+        39
+      ],
+      "green": [
+        52,
+        14
+      ],
+      "blue": [
+        50,
+        39
+      ]
+    }
+  },
+  {
+    "id": 913,
+    "image": "data/raw/images/sample_0913.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.1,
+      -1.0,
+      0.0
+    ],
+    "agent_pos": [
+      53,
+      39
+    ],
+    "blocks": {
+      "red": [
+        15,
+        50
+      ],
+      "green": [
+        15,
+        24
+      ],
+      "blue": [
+        51,
+        19
+      ]
+    }
+  },
+  {
+    "id": 758,
+    "image": "data/raw/images/sample_0758.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.5,
+      0.6,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      37
+    ],
+    "blocks": {
+      "red": [
+        49,
+        49
+      ],
+      "green": [
+        16,
+        31
+      ],
+      "blue": [
+        47,
+        22
+      ]
+    }
+  },
+  {
+    "id": 692,
+    "image": "data/raw/images/sample_0692.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.9,
+      0.45,
+      0.0
+    ],
+    "agent_pos": [
+      29,
+      30
+    ],
+    "blocks": {
+      "red": [
+        47,
+        39
+      ],
+      "green": [
+        15,
+        48
+      ],
+      "blue": [
+        44,
+        11
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "image": "data/raw/images/sample_0104.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      0.3,
+      0.0
+    ],
+    "agent_pos": [
+      47,
+      30
+    ],
+    "blocks": {
+      "red": [
+        11,
+        21
+      ],
+      "green": [
+        26,
+        13
+      ],
+      "blue": [
+        18,
+        36
+      ]
+    }
+  },
+  {
+    "id": 754,
+    "image": "data/raw/images/sample_0754.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.0,
+      0.85,
+      0.0
+    ],
+    "agent_pos": [
+      31,
+      26
+    ],
+    "blocks": {
+      "red": [
+        31,
+        43
+      ],
+      "green": [
+        48,
+        49
+      ],
+      "blue": [
+        47,
+        17
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "image": "data/raw/images/sample_0142.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      0.3,
+      -0.9,
+      0.0
+    ],
+    "agent_pos": [
+      12,
+      32
+    ],
+    "blocks": {
+      "red": [
+        44,
+        31
+      ],
+      "green": [
+        18,
+        14
+      ],
+      "blue": [
+        39,
+        12
+      ]
+    }
+  },
+  {
+    "id": 228,
+    "image": "data/raw/images/sample_0228.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -0.7,
+      0.95,
+      0.0
+    ],
+    "agent_pos": [
+      49,
+      12
+    ],
+    "blocks": {
+      "red": [
+        46,
+        51
+      ],
+      "green": [
+        35,
+        31
+      ],
+      "blue": [
+        10,
+        16
+      ]
+    }
+  },
+  {
+    "id": 250,
+    "image": "data/raw/images/sample_0250.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      -1.0,
+      -0.05,
+      0.0
+    ],
+    "agent_pos": [
+      50,
+      39
+    ],
+    "blocks": {
+      "red": [
+        11,
+        17
+      ],
+      "green": [
+        20,
+        38
+      ],
+      "blue": [
+        39,
+        10
+      ]
+    }
+  },
+  {
+    "id": 281,
+    "image": "data/raw/images/sample_0281.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -0.3,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      39,
+      16
+    ],
+    "blocks": {
+      "red": [
+        18,
+        17
+      ],
+      "green": [
+        22,
+        35
+      ],
+      "blue": [
+        33,
+        53
+      ]
+    }
+  },
+  {
+    "id": 759,
+    "image": "data/raw/images/sample_0759.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      16,
+      10
+    ],
+    "blocks": {
+      "red": [
+        48,
+        14
+      ],
+      "green": [
+        50,
+        42
+      ],
+      "blue": [
+        26,
+        32
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "image": "data/raw/images/sample_0025.png",
+    "instruction": "go to green block",
+    "target_color": "green",
+    "action": [
+      1.0,
+      0.2,
+      0.0
+    ],
+    "agent_pos": [
+      30,
+      25
+    ],
+    "blocks": {
+      "red": [
+        18,
+        52
+      ],
+      "green": [
+        51,
+        29
+      ],
+      "blue": [
+        14,
+        10
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "image": "data/raw/images/sample_0114.png",
+    "instruction": "go to red block",
+    "target_color": "red",
+    "action": [
+      0.45,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      10,
+      21
+    ],
+    "blocks": {
+      "red": [
+        19,
+        46
+      ],
+      "green": [
+        52,
+        35
+      ],
+      "blue": [
+        50,
+        11
+      ]
+    }
+  },
+  {
+    "id": 654,
+    "image": "data/raw/images/sample_0654.png",
+    "instruction": "go to blue block",
+    "target_color": "blue",
+    "action": [
+      -1.0,
+      1.0,
+      0.0
+    ],
+    "agent_pos": [
+      52,
+      15
+    ],
+    "blocks": {
+      "red": [
+        35,
+        18
+      ],
+      "green": [
+        46,
+        42
+      ],
+      "blue": [
+        17,
+        43
+      ]
+    }
+  }
+]
